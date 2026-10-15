@@ -1,0 +1,18 @@
+[project]
+name = "hackathon-radar-fetch"
+version = "0.1.0"
+description = "Fetching half of hackathon-radar — 11-source global hackathon catalog"
+requires-python = ">=3.11"
+dependencies = [
+    "crawl4ai",
+    "playwright",
+    "httpx",
+    "PyYAML",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

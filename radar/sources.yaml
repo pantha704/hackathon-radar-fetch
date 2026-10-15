@@ -1,0 +1,60 @@
+# Hackathon Radar source registry.
+# Adding a site = 1 entry here + 1 adapter module in radar/adapters/.
+# kind: api (JSON endpoint via httpx) | browser (rendered page) | hybrid (both).
+# enabled: false keeps the entry documented but out of runs.
+- id: devpost
+  kind: api
+  enabled: true
+  url: https://devpost.com/api/hackathons?page=1
+  notes: "JSON listing API; fields used: title, url, displayed_location, open_state, submission_period_dates, themes, prize_amount"
+- id: devfolio
+  kind: browser
+  enabled: true
+  url: https://devfolio.co/hackathons
+  notes: "React listing rendered via the crawl4ai/cloak browser backend; cards carry name, mode badge (Online/Offline), status badge (Open/Upcoming/Ended), starts date and themes"
+- id: mlh
+  kind: browser
+  enabled: true
+  url: https://mlh.io/seasons/2026/events
+  notes: "MLH season schedule rendered via the crawl4ai/cloak browser backend; cards carry name, date range, location and a Digital/In-Person badge; status is derived from the season year (page title) + dates vs run date"
+- id: dorahacks
+  kind: browser
+  enabled: true
+  url: https://dorahacks.io/hackathon
+  notes: "DoraHacks hackathon listing rendered via the crawl4ai/cloak browser backend; cards carry title, status badge (Ongoing/Extended/Upcoming/Pre-registration/Winner/Ended), Virtual or physical location, prize pool and theme pills; no calendar dates on cards"
+- id: superteam
+  kind: browser
+  enabled: true
+  url: https://earn.superteam.fun/
+  notes: "Superteam Earn homepage rendered via the crawl4ai/cloak browser backend; keeps hackathon-type entries only (featured hackathon namespace cards, e.g. Crypto World's Fair); bounty/grant listings are skipped as non-hackathons"
+- id: lablab
+  kind: browser
+  enabled: true
+  url: https://lablab.ai/event
+  notes: "lablab.ai AI-hackathon listing rendered via the crawl4ai/cloak browser backend; cards carry name, start (time datetime) + displayed range, and LIVE/Register/Finished + Online/Hybrid/On-site badges"
+- id: ethglobal
+  kind: browser
+  enabled: true
+  url: https://ethglobal.com/events
+  notes: "ETHGlobal events page rendered via the crawl4ai/cloak browser backend; keeps hackathon-type entries only: the Upcoming carousel (IRL/Online Hackathon pills) plus the Past table rows badged Hackathon/Online; Meetup/Co-working/Conference/Summit entries are skipped"
+- id: taikai
+  kind: browser
+  enabled: true
+  url: https://taikai.network/hackathons
+  notes: "TAIKAI public hackathon listing rendered via the crawl4ai/cloak browser backend; cards carry name, phase state (Registration/Registrations open/Finished/Award Ceremony), prize and tags; no dates or per-card mode — mode defaults to online (platform nature, flagged)"
+- id: hackathoncom
+  kind: browser
+  enabled: true
+  url: https://www.hackathon.com/
+  notes: "Hackathon.com homepage highlights carousel rendered via the crawl4ai/cloak browser backend; the 4 featured heroes carry name, topics, an Online/physical location line and a Starts/Ends range whose year is read from the highlights nav row; status derived from dates vs run date"
+- id: wemakedevs
+  kind: browser
+  enabled: true
+  url: https://wemakedevs.org/
+  notes: "WeMakeDevs homepage rendered via the crawl4ai/cloak browser backend; keeps the Explore Upcoming Hackathons carousel only (name, Remote/Hybrid location chip, Live badge, prize, yearless date range whose year comes from the embedded RSC payload); the Find a Local Meetup carousel is skipped as non-hackathon"
+- id: hackclub
+  kind: browser
+  enabled: true
+  url: https://hackathons.hackclub.com/
+  notes: "Hack Club high-school hackathon listing rendered via the crawl4ai/cloak browser backend; schema.org Event cards carry name, Online/In-Person/Hybrid badge, address and ISO start/end dates; duplicate-URL editions keep the newest (first occurrence), http-only links are skipped; status derived from dates vs run date"
+

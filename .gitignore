@@ -1,0 +1,21 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# radar runtime
+cache/
+.env
+.pw-browsers/
+.cloak-profile/
+
+# agent scratch
+.superpowers/
+.scratch/
+.gitnexus/
+.claude/
+
+# artifacts
+.playwright-mcp/
+*.log

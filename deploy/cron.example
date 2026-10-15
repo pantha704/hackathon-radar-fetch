@@ -1,0 +1,13 @@
+# hackathon-radar-fetch — refresh schedule TEMPLATE (disabled by default).
+#
+# The radar is on-command only: nothing refreshes until someone runs it.
+# This file is an opt-in crontab snippet — it does nothing until you copy the
+# line below into your own crontab (`crontab -e`) and uncomment it.
+#
+# Suggested cadence: daily at 09:00 IST (03:30 UTC). Adjust the repo path to
+# your checkout. A scheduled run commits + pushes only when the data actually
+# changed (it also refreshes the README's online list); output is appended to
+# cache/radar-cron.log (gitignored). Requires the repo's git push access to be
+# available to cron (same credentials as a manual run).
+#
+# 30 3 * * * cd /home/ubuntu/hackathon-radar-fetch && mkdir -p cache && PLAYWRIGHT_BROWSERS_PATH="$PWD/.pw-browsers" .venv/bin/python -m radar.cli run >> cache/radar-cron.log 2>&1
