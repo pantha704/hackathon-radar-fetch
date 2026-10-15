@@ -579,7 +579,7 @@ def test_canonical_run_regenerates_readme_online_section(tmp_path, monkeypatch, 
     assert "stale" not in text
     assert "<!-- ONLINE-LIST:START (auto) -->" in text  # marker line preserved
     assert "<!-- ONLINE-LIST:END -->" in text
-    assert "**Last updated:**" in text and "| Name | Platform |" in text
+    assert "**Last fetched:**" in text and "| Name | Platform |" in text
     assert "Alpha" in text  # the fresh online.md row
     assert text.startswith("# Test README") and text.endswith("End.\n")
 

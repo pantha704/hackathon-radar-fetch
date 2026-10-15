@@ -4,7 +4,8 @@ Pure + file-level: no network, no run() involved. Pins the seam rulings:
 - ``inject_online_section`` replaces exactly the text between the two
   markers (the start marker's line and the end marker are preserved
   verbatim; the injected body is ``online.md`` minus its H1 and blank
-  edges);
+  edges, with its ``Last updated`` header relabeled ``Last fetched`` —
+  the README's last-fetch date/time wording);
 - a README without valid markers is returned unchanged — a hand-written
   README is never clobbered;
 - ``update_readme`` writes only when the content actually changes, and
@@ -44,7 +45,7 @@ EXPECTED = (
     "\n"
     "<!-- ONLINE-LIST:START (auto-generated — do not edit) -->\n"
     "\n"
-    "**Last updated:** 2026-10-11 09:00 IST · open: 1 · online: 1 · new: 0\n"
+    "**Last fetched:** 2026-10-11 09:00 IST · open: 1 · online: 1 · new: 0\n"
     "\n"
     "| Name | Platform |\n"
     "| --- | --- |\n"
@@ -64,9 +65,9 @@ def test_injection_is_idempotent():
     assert readme.inject_online_section(once, ONLINE_MD) == once
 
 
-def test_section_body_strips_h1_and_blank_edges():
+def test_section_body_strips_h1_and_relabels_header():
     assert readme.section_body(ONLINE_MD) == (
-        "**Last updated:** 2026-10-11 09:00 IST · open: 1 · online: 1 · new: 0\n"
+        "**Last fetched:** 2026-10-11 09:00 IST · open: 1 · online: 1 · new: 0\n"
         "\n"
         "| Name | Platform |\n"
         "| --- | --- |\n"
