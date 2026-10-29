@@ -1,9 +1,9 @@
 {
   "meta": {
-    "last_updated": "2026-10-25T18:53:12.410561+05:30",
-    "open": 44,
-    "online": 39,
-    "new": 15
+    "last_updated": "2026-10-29T15:30:13.723277+05:30",
+    "open": 41,
+    "online": 40,
+    "new": 14
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -54,7 +54,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -77,7 +77,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -100,7 +100,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -123,7 +123,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -169,7 +169,32 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "04f27211c097",
+      "name": "Diversion 2k27",
+      "source": "devfolio",
+      "url": "https://diversion2k27.devfolio.co/",
+      "mode": "offline",
+      "location": null,
+      "status": "upcoming",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [
+        "No Restrictions"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -192,7 +217,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -215,7 +240,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -238,7 +263,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -261,7 +286,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -284,7 +309,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -307,7 +332,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -330,7 +355,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -353,7 +378,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -376,7 +401,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -404,7 +429,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -432,7 +457,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -455,7 +480,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -501,7 +526,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -524,7 +549,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -547,7 +572,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -573,7 +598,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -596,7 +621,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -626,7 +651,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -638,18 +663,20 @@
       "location": null,
       "status": "open",
       "reg_deadline": null,
-      "start": "2026-10-31",
+      "start": "2026-12-11",
       "end": null,
       "team_min": null,
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -672,8 +699,35 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
+    },
+    {
+      "id": "18dced888722",
+      "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
+      "source": "devpost",
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+      "mode": "online",
+      "location": "Online",
+      "status": "open",
+      "reg_deadline": "2026-11-02",
+      "start": "2026-09-29",
+      "end": "2026-11-02",
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "$6,000",
+      "themes": [
+        "AR/VR",
+        "E-commerce/Retail",
+        "Machine Learning/AI"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "api"
     },
     {
       "id": "18fb11c8a1b6",
@@ -695,7 +749,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -718,7 +772,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -741,7 +795,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -770,7 +824,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -793,7 +847,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -839,8 +893,35 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
+    },
+    {
+      "id": "1edb7d2a1c5b",
+      "name": "Codex x TwitchCon Hackathon",
+      "source": "devpost",
+      "url": "https://twitchcon-codex.devpost.com/",
+      "mode": "online",
+      "location": "Online",
+      "status": "open",
+      "reg_deadline": "2026-11-02",
+      "start": "2026-10-23",
+      "end": "2026-11-02",
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "$25,000",
+      "themes": [
+        "Communication",
+        "Gaming",
+        "Machine Learning/AI"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "api"
     },
     {
       "id": "1fd10fb41703",
@@ -862,7 +943,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -910,7 +991,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -933,7 +1014,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -951,12 +1032,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -979,7 +1062,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1027,7 +1110,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1089,7 +1172,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1112,7 +1195,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1130,12 +1213,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1158,7 +1243,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1181,35 +1266,33 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
-      "id": "283fd21c7e35",
-      "name": "Build With AI: Basics",
-      "source": "devpost",
-      "url": "https://learn-ai-basics.devpost.com/",
-      "mode": "online",
-      "location": "Online",
-      "status": "open",
-      "reg_deadline": "2026-10-26",
-      "start": "2026-09-22",
-      "end": "2026-10-26",
+      "id": "28a6d84f2b92",
+      "name": "Innerve 11.0",
+      "source": "devfolio",
+      "url": "https://innerve-11.devfolio.co/",
+      "mode": "offline",
+      "location": null,
+      "status": "upcoming",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
       "team_min": null,
       "team_max": null,
       "solo_ok": null,
-      "prize": "$2,500",
+      "prize": null,
       "themes": [
-        "Machine Learning/AI",
-        "Beginner Friendly",
-        "Education"
+        "No Restrictions"
       ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
-      "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "api"
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
     },
     {
       "id": "2b25b0643201",
@@ -1254,7 +1337,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1277,7 +1360,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1300,7 +1383,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1346,7 +1429,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1421,7 +1504,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1444,7 +1527,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1467,35 +1550,8 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
-    },
-    {
-      "id": "34b8de802afd",
-      "name": "Cal Hacks 13.0",
-      "source": "devpost",
-      "url": "https://cal-hacks-13-0.devpost.com/",
-      "mode": "offline",
-      "location": "Palace of Fine Arts",
-      "status": "open",
-      "reg_deadline": "2026-10-25",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": "$159,822",
-      "themes": [
-        "Beginner Friendly",
-        "Social Good",
-        "Open Ended"
-      ],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "api"
     },
     {
       "id": "3592b9b188b9",
@@ -1517,7 +1573,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1563,7 +1619,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1586,7 +1642,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1609,7 +1665,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1632,7 +1688,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1655,7 +1711,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1678,7 +1734,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1688,7 +1744,7 @@
       "url": "https://taikai.network/en/spacexai/hackathons/spacexai-digital-transformation-lab/",
       "mode": "online",
       "location": null,
-      "status": "open",
+      "status": "closed",
       "reg_deadline": null,
       "start": null,
       "end": null,
@@ -1703,35 +1759,8 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
-    },
-    {
-      "id": "3de8055ba2a9",
-      "name": "OpenCV AI Competition 2026, powered by AWS",
-      "source": "devpost",
-      "url": "https://opencv26.devpost.com/",
-      "mode": "online",
-      "location": "Online",
-      "status": "open",
-      "reg_deadline": "2026-10-27",
-      "start": "2026-08-26",
-      "end": "2026-10-27",
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": "$20,250",
-      "themes": [
-        "IoT",
-        "Machine Learning/AI",
-        "Serverless"
-      ],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "api"
     },
     {
       "id": "40592ae5f53a",
@@ -1753,7 +1782,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1785,7 +1814,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1808,7 +1837,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1831,7 +1860,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1849,12 +1878,15 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "Design",
+        "AI"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1877,7 +1909,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1905,7 +1937,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1928,7 +1960,32 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "43edc1918b57",
+      "name": "Hackman X",
+      "source": "devfolio",
+      "url": "https://hackman-x.devfolio.co/",
+      "mode": "offline",
+      "location": null,
+      "status": "closed",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [
+        "No Restrictions"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1951,7 +2008,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1974,7 +2031,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -1997,7 +2054,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2020,7 +2077,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2043,7 +2100,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2066,7 +2123,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2089,30 +2146,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "css"
-    },
-    {
-      "id": "4a5d97ce9d25",
-      "name": "AgentVerse",
-      "source": "devfolio",
-      "url": "https://agentverse.devfolio.co/",
-      "mode": "offline",
-      "location": null,
-      "status": "open",
-      "reg_deadline": null,
-      "start": "2026-11-07",
-      "end": null,
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": null,
-      "themes": [],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2135,7 +2169,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2163,7 +2197,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2186,8 +2220,35 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
+    },
+    {
+      "id": "4d374eeb6052",
+      "name": "Learn AR with SPECS",
+      "source": "devpost",
+      "url": "https://learn-specs.devpost.com/",
+      "mode": "online",
+      "location": "Online",
+      "status": "open",
+      "reg_deadline": "2026-11-09",
+      "start": "2026-10-15",
+      "end": "2026-11-09",
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "$2,500",
+      "themes": [
+        "AR/VR",
+        "Machine Learning/AI",
+        "Design"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "api"
     },
     {
       "id": "4eb35c85c120",
@@ -2209,7 +2270,32 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "4ed4ae09df63",
+      "name": "Hacksprint 3.0",
+      "source": "devfolio",
+      "url": "https://hacksprint-3.devfolio.co/",
+      "mode": "online",
+      "location": null,
+      "status": "upcoming",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [
+        "No Restrictions"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2232,7 +2318,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2255,7 +2341,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2278,7 +2364,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2301,7 +2387,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2347,7 +2433,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2370,7 +2456,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2393,7 +2479,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2425,7 +2511,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2448,7 +2534,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2466,12 +2552,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2494,7 +2582,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2517,7 +2605,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2540,7 +2628,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2586,7 +2674,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2609,7 +2697,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2632,7 +2720,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2655,7 +2743,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2678,7 +2766,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2706,7 +2794,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2752,7 +2840,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2775,7 +2863,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2803,7 +2891,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2826,7 +2914,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2849,7 +2937,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2895,7 +2983,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2918,7 +3006,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -2968,6 +3056,36 @@
       "extracted_by": "css"
     },
     {
+      "id": "65a3bc84ce82",
+      "name": "Mozilla Otari Hackathon - Devs Wilding Online!",
+      "source": "dorahacks",
+      "url": "https://dorahacks.io/hackathon/mozilla-devs-wilding",
+      "mode": "online",
+      "location": "Virtual",
+      "status": "open",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "1,200 USD",
+      "themes": [
+        "open source ai",
+        "llm gateway",
+        "open source",
+        "ai",
+        "llm",
+        "online"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
       "id": "66c1dc1b746d",
       "name": "ForgeHacks",
       "source": "hackclub",
@@ -2987,7 +3105,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3010,7 +3128,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3033,7 +3151,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3045,18 +3163,20 @@
       "location": null,
       "status": "open",
       "reg_deadline": null,
-      "start": "2026-10-31",
+      "start": "2026-11-20",
       "end": null,
       "team_min": null,
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3079,7 +3199,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3102,7 +3222,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3125,7 +3245,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3150,7 +3270,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3173,7 +3293,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3196,7 +3316,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3219,7 +3339,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3242,7 +3362,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3265,7 +3385,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3288,7 +3408,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3311,7 +3431,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3334,7 +3454,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3357,7 +3477,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3380,7 +3500,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3407,27 +3527,31 @@
       "extracted_by": "css"
     },
     {
-      "id": "762f11315b17",
-      "name": "Hack Nexus 2027",
-      "source": "devfolio",
-      "url": "https://hack-nexus.devfolio.co/",
-      "mode": "offline",
-      "location": null,
-      "status": "upcoming",
-      "reg_deadline": null,
-      "start": null,
-      "end": null,
+      "id": "754acf283586",
+      "name": "DSH Hacks V2 ($100k+ in prizes!)",
+      "source": "devpost",
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "mode": "online",
+      "location": "Online",
+      "status": "open",
+      "reg_deadline": "2026-11-15",
+      "start": "2026-06-24",
+      "end": "2026-11-15",
       "team_min": null,
       "team_max": null,
       "solo_ok": null,
-      "prize": null,
-      "themes": [],
+      "prize": "$0",
+      "themes": [
+        "Beginner Friendly",
+        "Low/No Code",
+        "Open Ended"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
-      "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "css"
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "api"
     },
     {
       "id": "7695db26dd6c",
@@ -3449,7 +3573,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3472,7 +3596,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3490,35 +3614,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "css"
-    },
-    {
-      "id": "79e52841d557",
-      "name": "Surat Hack 2026",
-      "source": "devfolio",
-      "url": "https://surat-hack-2026.devfolio.co/",
-      "mode": "offline",
-      "location": null,
-      "status": "open",
-      "reg_deadline": null,
-      "start": "2026-11-01",
-      "end": null,
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": null,
-      "themes": [],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3541,7 +3644,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3564,7 +3667,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3587,7 +3690,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3610,7 +3713,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3660,7 +3763,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3689,7 +3792,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3712,7 +3815,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3758,7 +3861,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3783,7 +3886,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3809,7 +3912,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3837,7 +3940,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3860,7 +3963,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3878,12 +3981,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3906,7 +4011,35 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "8501e9cfd4ab",
+      "name": "Hack4Guimarães 2035",
+      "source": "taikai",
+      "url": "https://taikai.network/en/cmguimaraes/hackathons/hack4guimaraes2035/",
+      "mode": "online",
+      "location": null,
+      "status": "closed",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "20,000€",
+      "themes": [
+        "Sustainability",
+        "Defense & Security",
+        "Artificial Intelligence",
+        "Aerospace"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3929,7 +4062,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3952,7 +4085,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3975,7 +4108,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -3998,7 +4131,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4023,7 +4156,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4069,7 +4202,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4092,7 +4225,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4115,7 +4248,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4161,7 +4294,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4184,7 +4317,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4207,7 +4340,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4281,7 +4414,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4304,7 +4437,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4327,7 +4460,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4375,7 +4508,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4421,7 +4554,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4444,7 +4577,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4475,7 +4608,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4544,7 +4677,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4590,7 +4723,34 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "99aa23fe7809",
+      "name": "Cognition 2026",
+      "source": "devfolio",
+      "url": "https://cognition-2026.devfolio.co/",
+      "mode": "offline",
+      "location": null,
+      "status": "closed",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [
+        "Blockchain",
+        "FinTech",
+        "AI"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4619,7 +4779,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4642,7 +4802,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4665,7 +4825,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4688,7 +4848,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4711,7 +4871,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4734,7 +4894,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4763,7 +4923,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4790,7 +4950,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4815,7 +4975,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4838,7 +4998,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4861,7 +5021,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4884,7 +5044,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4907,7 +5067,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4930,7 +5090,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4953,7 +5113,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -4976,7 +5136,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5003,7 +5163,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "api"
     },
     {
@@ -5026,7 +5186,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5049,7 +5209,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5072,7 +5232,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5090,12 +5250,16 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "FinTech",
+        "AI",
+        "HealthTech"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5118,30 +5282,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "css"
-    },
-    {
-      "id": "ae8c30c501ab",
-      "name": "ETHChiangmai & Longevity Hackathon 2026",
-      "source": "devfolio",
-      "url": "https://chiangmai.devfolio.co/",
-      "mode": "offline",
-      "location": null,
-      "status": "upcoming",
-      "reg_deadline": null,
-      "start": null,
-      "end": null,
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": null,
-      "themes": [],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5164,7 +5305,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5223,7 +5364,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5246,7 +5387,55 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "b2857270ad06",
+      "name": "Beacon Hacks",
+      "source": "hackclub",
+      "url": "https://beaconhacks.com",
+      "mode": "offline",
+      "location": "Belmont, California",
+      "status": "upcoming",
+      "reg_deadline": null,
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "css"
+    },
+    {
+      "id": "b290a8b31928",
+      "name": "Realm Hack '26",
+      "source": "devfolio",
+      "url": "https://realm-hack-1.devfolio.co/",
+      "mode": "offline",
+      "location": null,
+      "status": "closed",
+      "reg_deadline": null,
+      "start": null,
+      "end": null,
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": null,
+      "themes": [
+        "No Restrictions"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5269,7 +5458,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5317,7 +5506,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5349,7 +5538,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-20T16:50:02.578157+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5418,7 +5607,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5441,7 +5630,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5464,7 +5653,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5492,7 +5681,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5515,7 +5704,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5561,7 +5750,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5584,7 +5773,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5607,7 +5796,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5634,7 +5823,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5659,7 +5848,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "api"
     },
     {
@@ -5682,7 +5871,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5705,8 +5894,35 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
+    },
+    {
+      "id": "c1d0d95adc1a",
+      "name": "UGREEN Hackathon 2026 on AI NAS",
+      "source": "devpost",
+      "url": "https://ugreenhackathon.devpost.com/",
+      "mode": "online",
+      "location": "Online",
+      "status": "open",
+      "reg_deadline": "2026-11-16",
+      "start": "2026-10-22",
+      "end": "2026-11-16",
+      "team_min": null,
+      "team_max": null,
+      "solo_ok": null,
+      "prize": "$46,000",
+      "themes": [
+        "Lifehacks",
+        "Machine Learning/AI",
+        "Productivity"
+      ],
+      "eligibility": null,
+      "cost": null,
+      "also_on": [],
+      "first_seen": "2026-10-29T15:30:13.723277+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
+      "extracted_by": "api"
     },
     {
       "id": "c428a100a9db",
@@ -5728,7 +5944,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5760,7 +5976,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5783,7 +5999,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5806,7 +6022,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-17T13:03:51.776831+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5835,7 +6051,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5858,7 +6074,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5884,7 +6100,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5909,7 +6125,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -5965,7 +6181,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6034,7 +6250,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6057,7 +6273,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6075,12 +6291,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6110,7 +6328,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6135,7 +6353,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6158,7 +6376,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6204,7 +6422,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6227,7 +6445,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6250,7 +6468,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6273,33 +6491,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "css"
-    },
-    {
-      "id": "d2cc999115da",
-      "name": "Build for the Future Hackathon 2026",
-      "source": "taikai",
-      "url": "https://taikai.network/en/outsystems/hackathons/build-for-the-future-2026/",
-      "mode": "online",
-      "location": null,
-      "status": "open",
-      "reg_deadline": null,
-      "start": null,
-      "end": null,
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": "17,500€",
-      "themes": [
-        "Social Good & Impact",
-        "Artificial Intelligence"
-      ],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6345,7 +6537,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6368,7 +6560,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6394,7 +6586,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6444,7 +6636,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6467,7 +6659,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6490,7 +6682,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6508,12 +6700,15 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "Blockchain",
+        "AI"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6536,7 +6731,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6559,35 +6754,8 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
-    },
-    {
-      "id": "d8d58a04d2cf",
-      "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "source": "devpost",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "mode": "online",
-      "location": "Online",
-      "status": "open",
-      "reg_deadline": "2026-10-28",
-      "start": "2026-09-14",
-      "end": "2026-10-28",
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": "$40,000",
-      "themes": [
-        "Communication",
-        "Mobile",
-        "Machine Learning/AI"
-      ],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-16T00:14:05.644304+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "api"
     },
     {
       "id": "d9b274e31ba5",
@@ -6609,7 +6777,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6632,7 +6800,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6657,7 +6825,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6680,7 +6848,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6703,7 +6871,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6726,7 +6894,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6799,7 +6967,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-20T16:50:02.578157+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6822,7 +6990,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6854,7 +7022,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6877,7 +7045,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6900,7 +7068,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6923,7 +7091,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6946,7 +7114,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6964,12 +7132,14 @@
       "team_max": null,
       "solo_ok": null,
       "prize": null,
-      "themes": [],
+      "themes": [
+        "No Restrictions"
+      ],
       "eligibility": null,
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -6992,7 +7162,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7022,7 +7192,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7045,7 +7215,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7091,7 +7261,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7114,7 +7284,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7160,7 +7330,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7189,7 +7359,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7235,7 +7405,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7285,7 +7455,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "api"
     },
     {
@@ -7308,7 +7478,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7356,7 +7526,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7388,7 +7558,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7411,7 +7581,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7434,7 +7604,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7480,7 +7650,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7503,7 +7673,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7526,7 +7696,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7549,7 +7719,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-25T18:53:12.410561+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7572,7 +7742,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7595,7 +7765,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7618,7 +7788,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7641,35 +7811,8 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
-    },
-    {
-      "id": "fa68a06c6389",
-      "name": "Life After Code",
-      "source": "devpost",
-      "url": "https://gitlab-transcend.devpost.com/",
-      "mode": "online",
-      "location": "Online",
-      "status": "open",
-      "reg_deadline": "2026-10-27",
-      "start": "2026-10-05",
-      "end": "2026-10-27",
-      "team_min": null,
-      "team_max": null,
-      "solo_ok": null,
-      "prize": "$45,000",
-      "themes": [
-        "DevOps",
-        "Machine Learning/AI",
-        "Productivity"
-      ],
-      "eligibility": null,
-      "cost": null,
-      "also_on": [],
-      "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
-      "extracted_by": "api"
     },
     {
       "id": "fe097ac71a1a",
@@ -7691,7 +7834,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7714,7 +7857,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "css"
     },
     {
@@ -7741,7 +7884,7 @@
       "cost": null,
       "also_on": [],
       "first_seen": "2026-10-10T01:58:02.941094+05:30",
-      "last_seen": "2026-10-25T18:53:12.410561+05:30",
+      "last_seen": "2026-10-29T15:30:13.723277+05:30",
       "extracted_by": "api"
     }
   ]
